@@ -2,7 +2,7 @@
 
 ### 1st: STRATEGY
 The site, the system or app's reason for being
-        - why people is willing to use it? why they need it?
+    - why people is willing to use it? why they need it?
 
     > Task + Information: User Needs, Business Objectives
 
@@ -15,7 +15,6 @@ Both have to be measurable - how will we know if we've succeeded? (such as user 
 
 ### 2nd: SCOPE
 Features and Functions contained within the site, system or app
-
     > Task: Functional Specification
     > Information: Content Requirements (what content, what data need to interact, manipulate with)
 
