@@ -1,3 +1,5 @@
+## Using the elements - strategy
+
 ### The **research** process
 Strategic UX Research:
 
@@ -10,45 +12,45 @@ Strategic UX Research:
 ### Business Goals: Stakeholder Questions
 Identify Business Goal:
 
-    * What should the product accomplish for the business?
-    * Who are your customers or users?
-    * How does this project fit with your business strategy?
-    * How do you expect to differentiate this product?
-    * What technologo decisions have already been made?
-    * Why do customer use a product like this one?
-    * If they use a competitor's product instead, what's the reason?
-    * What things do customers complain about most often?
+    - What should the product accomplish for the business?
+    - Who are your customers or users?
+    - How does this project fit with your business strategy?
+    - How do you expect to differentiate this product?
+    - What technologo decisions have already been made?
+    - Why do customer use a product like this one?
+    - If they use a competitor's product instead, what's the reason?
+    - What things do customers complain about most often?
 
 ### User Needs: Questions for B2B Users 
 Questions:
 
-    * Tell me about your **background** and **role**
-    * What makes a good workday for you?
-    * How does function or process **work** here?
-    * what are the different **groups** and **roles** involved in function or process? how do they work together?
-    * How does this compare to your previous companies?
-    * What are the biggest problems and inefficiencies?
-    * Can you tell me about the other **system** that work with this one?
+    - Tell me about your **background** and **role**
+    - What makes a good workday for you?
+    - How does function or process **work** here?
+    - what are the different **groups** and **roles** involved in function or process? how do they work together?
+    - How does this compare to your previous companies?
+    - What are the biggest problems and inefficiencies?
+    - Can you tell me about the other **system** that work with this one?
 
 ### User Needs: Questions for B2C users
 Questions:
 
-    * Tell me what makes a good (shopping, watching, ...) **experience**?
-    * What things would you usually do **first** here? Why?
-    * What would you **put off** as long as you can here? Why? (chẳng hạn phải nhập lại username khi checkout, phải nhập lại address khi đã nhập ở lần trước rồi... )
-    * How **often** do you use this product?
-    * What do you **use it for** most often?
-    * Could you **show me** how you do that?
-    * What things do you use **before, during or after** this product?
-    * How would you **compare** this product to others you've used? (asking for review or response, can ask: top 3 things of this site...?)
+    - Tell me what makes a good (shopping, watching, ...) **experience**?
+    - What things would you usually do **first** here? Why?
+    - What would you **put off** as long as you can here? Why? (chẳng hạn phải nhập lại username khi checkout, phải nhập lại address khi đã nhập ở lần trước rồi... )
+    - How **often** do you use this product?
+    - What do you **use it for** most often?
+    - Could you **show me** how you do that?
+    - What things do you use **before, during or after** this product?
+    - How would you **compare** this product to others you've used? (asking for review or response, can ask: top 3 things of this site...?)
 
 ### Three Crucial Questions (ask yourself)
 **1) What's worth doing?**
 Estimate the importance and feasibility/viability of features, divide them into 3 levels:
 
-    * Ignore this stuff completely (lowest priority)
-    * Strongly consider accomodating this stuff
-    * Include this stuff or _die_ (highest priority)
+    - Ignore this stuff completely (lowest priority)
+    - Strongly consider accomodating this stuff
+    - Include this stuff or _die_ (highest priority)
 
 **2) What are we creating?**
 For example:
