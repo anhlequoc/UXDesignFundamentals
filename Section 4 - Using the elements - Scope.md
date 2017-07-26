@@ -124,4 +124,77 @@ Example: IKEA's strategic tradeoffs
                 - The site will be cool and hip (subjective) - to who??? (what's cool to me may not be cool to my 13 years old daughter)
                 -> The site will conform to company brand guidlines
 
-    
+### Content Requirements
+> Content is the information are coming to your site or using your app or your system in the first place. They can read, absorb, interact with this essentially content. There are a lot of different types of content
+
+1. Content Requriements:
+
+- Các loại content khác nhau thường kết hợp với nhau để thực hiện 1 single requirement
+- Content có nhiều ảnh hưởng lớn tới hướng lựa chọn UXD
+    + Content **format** and purpose
+    + Size of each content type: word count, pixel dimensions, file size, bandwidth (for streaming video, audio)...
+    + **Resources** needed to produce each type of content: for text - need writer, for image - need .. ? so in project team, someone need to be in charged of these tasks... (creating audio, video...) -> where do we store these contents... (in our server? in where ?)
+
+2. Content Should Be **Strategic**
+
+- User tìm đến sản phẩm (web, app...) dựa vào content thỏa mãn 2 tiêu chí sau:
+    + appropriate for BUSINESS
+    + appropriate for USERS
+- Khi đã thỏa mãn cả 2, có những điều sau cần concernss:
+    + cần có _DELIVERY METHOD_ tới users (how are we getting it to the audience) (save offline, retrieve online... ?)
+    + cần có _STYLE & STRUCTURE_ : style: relax or formal, business? ...
+    + cần có _SUBJECT & SUBSTANCE_
+
+> your job is not to tell people how great you are or what you've accomplished or how long you've been in business or what's your positionin marketplace. Your job is tell them why any of that matters to them. "What's in it for me?"
+
+- Your tasks:
+    + Identify **content sources** as early as possible:
+    + Identify **inappropriate content** as early as possible: là những thứ mà mọi người không quan tâm, content không còn đúng nữa,...
+    + **Validate** every suggested content feature against the project's strategic objectives, need to tell a compelling story
+
+- Remember that all content ideas sound great when **somebody else** is responsible for creating them!
+- If design or development proceeds without content features and sourcing clerly **identified** and **validated**, the product is bound for failure
+
+3. Content should be **contextual**
+Content cần phụ thuộc vào ngữ cảnh của người đọc:
+- PHYSICAL: DOING: Environment, stimuli, activity, habits, disabilities
+    + user xem content ở trong phòng như thế nào? ồn ào hay tĩnh lặng? xem trên điện thoại hay đang đi trên phố, có tiếng ồn của traffic hay không...họ thích xem content ở đâu? (phone, tablet, laptop...?)
+- EMOTIONAL: FEELING: psychological state, stress level, desires, wants, needs
+- COGNITIVE: LEARNIGN: cognitive assumptions, learning ability, education
+
+-> Because content should contextual, so Content Requirement should be contextual also -> it should be very-well defined, should be specific, shouldn't be subjective, shouldn't be subject to interpretation
+
+Example:
+    Question for client: What are your goals for this content?
+    Client: It sells products
+    ->Q: can you be more specific than that?
+    ->A: it should sell a **specific** product
+    ->Q: list and demonstrate the **benefits** of this product (more details)
+    ->A: show how this product helps middle school teachers
+-> đã có mô tả rõ hơn về product, 1 product cụ thể hướng đến các đối tượng rõ ràng
+
+4. Content should be **user-centered**
+- its purpose, its strategy, its form... should be depending on what kind of user is
+Example:
+
+Wrong way | Right way
+------- | -------
+design the site map to mirror the org chart | design the site map to reflect prioritized user needs
+insist on using the client's internal mental models and vocabulary | Match users' model of the world and the ways they use specific terms and phrase (example: nếu customer gọi sản phẩm của mình là Screen Door, thì nếu mình gọi nó là Middle Door, Storm Door...là không cần thiết) -> cần phải match the way that your site visitor, your users think about those things
+"We are a leading provider of blah.... | "Here's what's in it for you". "Here is why it's valuable for you..."
+
+5. Ask the **right questions**
+> "Useful", "Valuable" are the keywords when we talk about content
+
+- Who is going to **create** all of this? 
+- Who is going to approve all of this?
+- Who is responsible for managing content, updating content?
+- What are our competitors doing?
+- Will people find this useful? valuable?
+- How will people find all of this stuff? (content should not be too long, to complicated like a novel...)
+- how many **different kinds of content** are there?
+- Where does this fit in the **structure**?
+- How are we going to **display** this? (and download it?)
+- What are the **form factor** restriction? (on laptop, tablet,...?) (ví dụ content làm từ flash, mà flash ko chạy trên iPhone, trong khi iPHone chiếm 80% lượng target audience thì sao :D ?)
+
+-> ask all questions to have a really solid leg up in managing all the potential headaches that content can cause
