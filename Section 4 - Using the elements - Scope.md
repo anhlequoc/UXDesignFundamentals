@@ -198,3 +198,126 @@ insist on using the client's internal mental models and vocabulary | Match users
 - What are the **form factor** restriction? (on laptop, tablet,...?) (ví dụ content làm từ flash, mà flash ko chạy trên iPhone, trong khi iPHone chiếm 80% lượng target audience thì sao :D ?)
 
 -> ask all questions to have a really solid leg up in managing all the potential headaches that content can cause
+
+### Generating Effective Requirements
+1. Requirement can't be **"gathered"**
+    - Thường gọi "gathering requirement", cái này dễ gây hiểu nhầm:
+        + requirements không nằm trên cây hay đâu đó, chỉ chờ để lôi ra
+        + requirement không rơi từ trên trời xuống mà mình chỉ cần đi nhặt nó và xong, đó là tất cả requirement cần cho project
+    -> không work như thế này
+
+> There is no existing requirement. Requirement should be generated, have to be created through discussion, discussion with clients, with users. You have to uncover this stuff, and then make decision based on what you uncovered
+
+- Much of what's provided in a "gathering" session is based on **executive opinion**, **technology preferences** or **what customers claim they want**
+- "Gathering" gives the impression that the job at hand is to take orders. If you just take an orders, there are 2 things are happening:
+    + You're devaluating your contribution. không có nhiều giá trị với khách hàng hay tổ chức mà bạn đúng ra có thể và họ sẽ trả bạn một cách tương ứng 
+    + You're really helping them get to the right solution
+-> So don't be an order taker add value seek to add value
+
+2. Requirement are not **features**
+    - because requirements are needs, features are solutions
+    ex:
+        - Saying: "It has to be web-based" -> feature, solution
+        - "IT won't have to install it on every single PC" -> it's need, there is a consequence attached to action that's a need
+    - So what you do is: State the need first > give everyone the chance to discuss and come up with better solutions > geenerating ideas
+    - Explore everything that are talked to you, ask yourself is that a need or a solution?
+        + a solution -> is feature
+
+3. Different **types** of requirements
+    3.1 Objectives: what does user want to accomplish
+    3.2 Functional Requirement: details, what user need to do in order to reach their objective? What's involved?
+    3.3 Non-functional Req: what **constraints** does the site or app have to perform within? (200 active user, ...) ? It's not desribing actions, it's describing attributes
+    3.4 Business Rule: What dynamic constraints do we have to meet? (calculation, definitions, legal,...). Such as sell product in 12 states,...
+
+4. Creating contextual **use** scenarios (use cases)
+- Tạo những tình huống sử dụng cụ thể:
+    + muốn thực hiện task A: cần làm như thế nào?
+    + muốn thực hiện task B: cần làm như thế nào?
+- Giống như vẽ work flow
+
+- ask some questions:
+    + who are the user at each point of activity?
+    + what information do they need?
+    + What action(s) do they need to take?
+    + what should be system do in response?
+    + What does it take to make that happen?
+    + Are there multiple ways to do that?
+
+Steps:
+4.1 IDENTIFY THE SCENARIOS YOU NEED
+    - Situations user finds themselves in
+    - Major activities user undertakes
+    - Do activities occur **together**? If so, **group them** in a scenario | if not, add an **additonal** scenario
+
+4.2 DEVELOP EACH STORY (SCENARIO)
+    - What **actions** does the user take?
+    - **Why** does the user act?
+    - **When/how often** does this happen?
+    - What **data** is exchanged?
+    - What **design priciples** apply?
+
+4.3 COMMUNICATE EACH SCRENARIO (with stakeholders, clients, project team, design team, maybe copywriter...)
+    - Create a compelling **narrative**
+    - Should **visual**, not verbal!
+    - Use high-level **diagrams**
+    - Use sketched **storyboards** 
+    - Share and discuss with **stakeholders**
+
+Some examples of how requirements are generated from scenario:
+    
+Scenario | Requirements
+----- | -----
+After a meeting, Joe pulls out his phone to not follow-up items, check the time and location of his upcoming meeting date and see if anything important has come up | - Ability to enter text and save note, to view and edit calendar, to see a list of message, UI appropriate for portable device size
+Joe sees an indication that he has two emails marked urgent along with a voicemail from a client, which appears to be high priority (favourite). He listens to the voicemail and it's important, so he selects the option to call the client back | - Ability to see email and voicemail in one place, ability to priotize messages based on user criteria, ability to listen to voicemail, ability to return call directly from message
+
+### Priortizing Specs and Requirements
+- Start by linking requirements to **strategic objectives**:
+    + Does the req fulfill a **userneed** ?
+    + Does the requirement fulfill a **business objective**?
+    + How **feasible** is the req? Will we be able to design, build and test it?
+    + Are there potential **conflicts** between requirements?
+>UXD RULE OF THUMB: Any requirement not in line with the project strategy is **out of scope**
+
+- How does each requirement affect the product? To find out, separate requirements by 3 attributes:
+    + USEFUL: is this useful to a customer? useful to us?
+    + SELLABLE: Could we sell this if we had it?
+    + BUIDABLE: can we build this - affordably?
+
+- Every force evolves requirements. So they should also be filtered through the forces at play affecting the product (and the project):
+    + Audience needs
+    + Client desires
+    + Ethical obligations
+    + Aesthetic inclinations
+    + Material properties
+    + Cultural presuppositions
+    + Functional requirements
+    + Time
+    + Budget
+    + Resources
+
+### Scope Takeaways: Things to remember
+- Defining scope forces all players to see and address **potential conflicts** and **rough spots** - _before_ time is invested in designing or building
+- The best source for requirement are your **users** - but remember that what they say the need may not be what they _actually_ need (in addition, there may be things that they don't know they need)
+- Content should be user-cented, and has major impact on user experience
+- Requirement aren't gathered - they're **generated**
+- And most of the time, they're **negotiated**
+- Contextual use scenarios are your best friend
+- The most **critical** requirements
+
+### Exercises: Hotel website
+FEATURE/FUNCTION | POINTS
+----- | -----
+**Insider Guide**: expert advice, reservation, tickets and day planning tools | 1
+**On-click reservation**: registered users can reserve a room with a single click | 2
+**Dining reservation**: Book reservations at partner restaurants online | 3
+**Wi-fi rebate**: Free wi-fi at the hotel for those who sign up for service online | 1
+
+**Plot the results**
+
+Column | RELEASE 1 | RELEASE 2 | RELEASE 3
+----- | ----- | ----- | -----
+STAGE | description of stage | description of stage | description of stage 
+USER VALUE | user/customer experiences in this stage | user/customer experiences in this stage | user/customer experiences in this stage
+BUSINESS VALUE | strategic or financial value of this stage | strategic or financial value of this stage | strategic or financial value of this stage
+FEATURES/FUNCTIONS | features / functionality included in this stage | features / functionality included in this stage | features / functionality included in this stage
+--- | POINTS FOR RELEASE (2) | POINTS FOR RELEASE (4) | POINTS FOR RELEASE (6)
