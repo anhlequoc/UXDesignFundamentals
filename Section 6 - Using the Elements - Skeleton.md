@@ -80,3 +80,140 @@ This **functional consistency** leverages existing knowledge:
 In the era of infinite choice, people need a better filters
 ![Hick's Law](https://i.imgur.com/hT7Zi19.png)
 
+### Navigation Design: from sitemap to screen
+The **navigation system** — along with **content and context** — should help a user understand where they are. 
+Navigation design typically starts with a **site map**.
+
+![Navigation System](https://i.imgur.com/j6pe0lS.png)
+
+>Good navigation design passes what author Steve Krug calls "the trunk test" (don't make me think)
+See explanation in this screenshot: 
+![Navigation System - The Trunk Test](https://i.imgur.com/fR8VSga.png)
+
+How do you find what you want?
+- Browsing via a navigation system 
+- Searching via keywords/phrases 
+- Using filters to narrow large lists and sets of information 
+- Using pagination controls to provide: 
+    + Location information
+    + Sense of depth/breadth
+    + Ability to navigate large
+
+Revealing Depth
+![Revealing Depth](https://i.imgur.com/Jn1LIAO.png)
+
+Information Scent:
+![Information Scent](https://i.imgur.com/yHNoY8Z.png)
+
+The path is rarely direct
+![The path is rately direct](https://i.imgur.com/H0UqfjK.png)
+
+Icons and Labels
+![Icons and Labels](https://i.imgur.com/QUtqixv.png)
+
+#### Some points need to check to make sure we're designing navigation that works
+![Solid Navigation](https://i.imgur.com/1rUG6Jh.png)
+
+No scavenger hunts!
+![No Scavenger Hunt](https://i.imgur.com/pKC5tYa.png)
+
+Be consistent
+Use the same **interactions**, **behaviors** and **visual styles** throughout the entire site, app or system.
+
+Elements of navigation should never:
+- Appear and disappear
+- Rearrange their order
+- Move to a different location
+
+Even changing the organization of the page underneath the nav can disrupt someone's understanding of how things work.
+
+E.X:
+![Consistent Navigation](https://i.imgur.com/6Ay6j3U.png)
+
+### Convention and Metaphor
+> Use conventions and metaphors to **set and keep** standard
+
+- The _appearance_ and _location_ of common navigation systems have evolved over time to become conventions. 
+- Those conventions tell us what to look for and where to look when we need them. 
+- Putting them in a standard place allows us to locate them quickly. 
+- Standardizing their appearance makes it easy to pick them out among everything else. 
+- How frustrating is it when one of these conventions is broken?
+
+Habit and Reflex (redux)
+**Convention** allows us to apply accumulated habits and reflexes in different circumstances.
+Conventions often become standards for devices that have nothing to do with the one that started the idea.
+Your interface design should be consistent with **others** your users are already familiar with.
+It should also be consistent with **itself**.
+
+Intuitive and Obvious
+![Intuitive and Obvious](https://i.imgur.com/epeRtE0.png)
+
+Use with caution
+![caution](https://i.imgur.com/DsZnvse.png)
+
+### Information Design
+Infomration Design is invisible, unless it's bad, it will be revealed, there will be many obvious consequences:
+- A form that's difficult to complete, resulting in errors.
+- Poor instructions that cause frustration or even danger.
+- Poor educational materials that don't promote learning.
+- Poorly represented scientific data that's misinterpreted.
+- Manufacturing Uls that don't warn of potential danger.
+- Websites that are difficult to navigate and unpleasant to look at.
+
+Think about Information Design like **the glue that holds all the elements together**
+- How do we present information so people understand it more easily? 
+- Information design is visual, but that doesn't mean we're focused on the finished look & feel. 
+- Our focus is on the effectiveness of the form — does it communicate clearly? 
+- Think of it as "sense-making." 
+- Good information design supports the goals of both user and creator. 
+
+Context is everything:
+Information elements should be **grouped** and **arranged** in ways that:
+- Reflect how users think
+- Match what they expect
+- Support their tasks and goals
+Quick Example:
+![Confusing vs Contextual](https://i.imgur.com/cglQr8e.png)
+
+#### Organization Methods:
+1. use alphabetical when:
+Alphabetical Order
+![Alphabetical Order](https://i.imgur.com/7qwg2vE.png)
+
+2. use categorical when:
+Categorical
+![Categorical Order](https://i.imgur.com/QRENbWe.png)
+
+3. use a continuum when:
+Continuum
+![Continuum Order](https://i.imgur.com/hW8wkTE.png)
+
+4. use location when:
+Location
+![Location Order](https://i.imgur.com/M6ZQ3iK.png)
+
+5. use time based when:
+Time based
+![Time Based Order](https://i.imgur.com/ejFrWWD.png)
+
+#### Appropriate Form
+What's the best representation? (pie chart, bar chart, line chart,...)
+![](https://i.imgur.com/7wNEpWc.png)
+
+Basecamp is more straighforward than MS Project
+![Basecamp vs MS Project](https://i.imgur.com/egybhV6.png)
+
+MS Project có rất nhiều tính năng mà Basecamp không có nhưng Basecamp chỉ tập trung vào 1 tính năng duy nhất, cốt lỗi là tăng communication between members of the team in common place
+> Part of appropriate form is making sure that what you're putting out there directly answers the needs of the people using it meet their core needs and forget about everything. Always remember that the simplest solution is usually the right solution
+
+Hick's law:
+![Hick's Law](https://i.imgur.com/XnIszEH.png)
+
+Quick example:
+First Twitter's Homepage (too many choices)
+![First Twitter's Homepage](https://i.imgur.com/6k5bwrE.png)
+
+Today Twitter's Homepage (simple, just few core functions)
+![Twitter's Homepage Today](https://i.imgur.com/qjXAOAe.png)
+
+### Wireframes
