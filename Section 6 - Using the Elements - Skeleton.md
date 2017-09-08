@@ -217,3 +217,99 @@ Today Twitter's Homepage (simple, just few core functions)
 ![Twitter's Homepage Today](https://i.imgur.com/qjXAOAe.png)
 
 ### Wireframes
+> A wireframe is a skeleton of a screen; it shows the priority and organization of things on the screen. It details how users will get to other parts of the site/app. 
+
+Wireframes reflect the designer's ideas about: 
+    - Placement of elements on the screen 
+    - Labeling of those elements 
+    - Navigation scheme 
+    - Functionality, behavior and feedback 
+
+Wireframes vary in their **level of detail**
+![Sample Wireframes](https://i.imgur.com/W59AIcm.png)
+
+don't care about font, color, typography, image, visual style of any kind... don't care about look and feel, just care about how much information is displayed, the layout of information...
+
+![Sample Wireframes](https://i.imgur.com/Dx51iF4.png)
+
+Wireframe in very details:
+![Wireframe in very details](https://i.imgur.com/PQwNo97.png)
+
+Why bother with wireframes: because design has to consider: 
+    - How each screen fits in with the site/app/system as a whole 
+    - What content, links and interactions are needed to meet both user needs and business goals 
+    - How all of these elements relate to each other 
+
+Wireframe with descriptions:
+![wireframes with description](https://i.imgur.com/ZwMRlwp.png)
+
+What wireframe tell us:
+    - what to look for 
+    - What content will be included 
+    - How that content is organized 
+    - Which content is most important 
+    - A given screen's location in the system 
+    - Where users can go and what they can do 
+    - How users will move around the system 
+
+#### THE WIREFRAME PROCESS:
+1) Revisit Needs and Goals
+    - Why is this valuable to my intended user? 
+    - What can it do to make their life better? 
+    - How can I make it easier for them to act? 
+    - What actions are most valuable on each screen? 
+    - Across the entire system? 
+    - How can I measure the impact of this action? 
+
+2) Establish Cores and Paths
+    - Cores are the primary pieces of content and functionality you want users to see and interact with. 
+    - Users take paths to enter and leave each screen in the system. 
+    - The goal is to prioritize content on the screen, and delineate clear paths for people to get to and from each screen. 
+
+FORM for BA/UX designer:
+![BA UX form](https://i.imgur.com/sKkBTOo.png)
+
+Top: list core user needs and core business goals
+Center: two main categories
+    - Core content & Functionality: what content is there and what can people do with it...
+    - Supporting information, navigation & outgoing paths (what has to be represented on screen)
+Left: incoming paths, it's all the places you can come from to get to this page
+Right: outgoing paths: how many exit paths are there
+Bottom:
+    - Trigger words: which are essentially suggestions to take action there, key labels, key concepts that need to be expressed
+    - Core Elements: all the core things that have to be included on this page that's just to make sure that we don't miss anything
+    - Calls to action: the primary things we're asking the user to do once they're here
+     
+3) Start Sketching:
+You'll be tempted to skip this phase. DON'T. 
+    - **Quickly** generate thumbnail sketches. 
+    - Your goal is to get down a **high volume** of **decent ideas** of what the screen(s) should look like. 
+    - **Don't** think about usability or information hierarchy — just get as many different ideas out of your head as possible.
+Sample sketch:
+![Sample Sketch](https://i.imgur.com/lGtdsKv.png)
+
+4) Rapid Prototying:
+    - Find a wireframing tool that works for you: Visio, OmniGraffle, Balsamiq, Axure, UXPin, etc. 
+    - DON'T use PowerPoint, Illustrator, InDesign, etc. 
+    - Try not to use "lorem ipsum" text — content is just as important to the design as button placement and navigational elements. 
+    - Remember that what you're creating is not final design (or anything close to it). 
+
+5) Question to ask:
+    - Is anything important **missing**? 
+    - Is the **most important** content noticed first? 
+    - Is there anything that **shouldn't** be here? 
+    - Which content is **related** — and how? 
+    - Can you get to **all of the major areas** from here? should you be able to? 
+    - Do all of the **labels** make sense? 
+    - Do you know what all of the **elements** are? 
+    - Is the **purpose** of each element clear? 
+    - Does the **flow** of **tasks** or **information** match the user's need or expectation? 
+    - Are **additional features** or functions needed? 
+
+### THINGS TO REMEMBER
+- The skeleton plane is created through **interface design**, which provides users with the ability to do things, and **navigation design**, which provides users with the ability to go places. 
+- Good interface design uses **progressive disclosure** to maximize signal and minimize noise. 
+- A product with a poorly designed user interface **won't be used** — no matter how technically superior the code is or how deep its functionality may be. 
+- Good **navigation design** reveals the depth of site content, provides **a sense of place** and allows users to **predict** the outcome of an interaction. 
+- Good **information design** is the **glue** that holds things together — supporting the goals of both user and creator. 
+- The only time you should deviate from a well- established convention is when there is a clear, obvious **benefit** to doing so. 
