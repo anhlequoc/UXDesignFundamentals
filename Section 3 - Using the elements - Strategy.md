@@ -68,7 +68,6 @@ For example:
 
 ### "First Use" Experience Questions (what is the user's expectation at first time of use?)
 Some questions:
-
     - What is this?
     - Is this what I expected to see?
     - Does it look credible and trustworthy?
