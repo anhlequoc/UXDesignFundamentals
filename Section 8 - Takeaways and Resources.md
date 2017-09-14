@@ -122,3 +122,4 @@ GivegoodUX (givegoodux.com -> lecturer's website)
 ![givegoodux](https://i.imgur.com/kkbpze9.png)
 
 Other workshop: http://www.givegoodux.com/free-workshop
+http://www.givegoodux.com/get-ux-included-during-the-creation-of-product-requirements/?first_name=Anh+Le&email=lequocanh88%40gmail.com
